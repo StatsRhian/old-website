@@ -1,2 +1,4 @@
-# old-website
-My hugodown R Markdown personal website
+# Personal website [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ea39e52-8c0c-4f9a-b75c-f7a455bbaf09/deploy-status)](https://app.netlify.com/sites/rhian/deploys)
+
+This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), with the [Apéro](https://hugo-apero-docs.netlify.app/) theme. I deploy my blog using [Netlify](https://www.netlify.com/), and it's hosted on [Rbind](https://rhian.rbind.io/).
